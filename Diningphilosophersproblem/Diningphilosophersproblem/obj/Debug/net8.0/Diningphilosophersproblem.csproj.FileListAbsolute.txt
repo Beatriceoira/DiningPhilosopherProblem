@@ -1,0 +1,14 @@
+C:\Users\biank\source\repos\Diningphilosophersproblem\Diningphilosophersproblem\bin\Debug\net8.0\Diningphilosophersproblem.exe
+C:\Users\biank\source\repos\Diningphilosophersproblem\Diningphilosophersproblem\bin\Debug\net8.0\Diningphilosophersproblem.deps.json
+C:\Users\biank\source\repos\Diningphilosophersproblem\Diningphilosophersproblem\bin\Debug\net8.0\Diningphilosophersproblem.runtimeconfig.json
+C:\Users\biank\source\repos\Diningphilosophersproblem\Diningphilosophersproblem\bin\Debug\net8.0\Diningphilosophersproblem.dll
+C:\Users\biank\source\repos\Diningphilosophersproblem\Diningphilosophersproblem\bin\Debug\net8.0\Diningphilosophersproblem.pdb
+C:\Users\biank\source\repos\Diningphilosophersproblem\Diningphilosophersproblem\obj\Debug\net8.0\Diningphilosophersproblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biank\source\repos\Diningphilosophersproblem\Diningphilosophersproblem\obj\Debug\net8.0\Diningphilosophersproblem.AssemblyInfoInputs.cache
+C:\Users\biank\source\repos\Diningphilosophersproblem\Diningphilosophersproblem\obj\Debug\net8.0\Diningphilosophersproblem.AssemblyInfo.cs
+C:\Users\biank\source\repos\Diningphilosophersproblem\Diningphilosophersproblem\obj\Debug\net8.0\Diningphilosophersproblem.csproj.CoreCompileInputs.cache
+C:\Users\biank\source\repos\Diningphilosophersproblem\Diningphilosophersproblem\obj\Debug\net8.0\Diningphilosophersproblem.dll
+C:\Users\biank\source\repos\Diningphilosophersproblem\Diningphilosophersproblem\obj\Debug\net8.0\refint\Diningphilosophersproblem.dll
+C:\Users\biank\source\repos\Diningphilosophersproblem\Diningphilosophersproblem\obj\Debug\net8.0\Diningphilosophersproblem.pdb
+C:\Users\biank\source\repos\Diningphilosophersproblem\Diningphilosophersproblem\obj\Debug\net8.0\Diningphilosophersproblem.genruntimeconfig.cache
+C:\Users\biank\source\repos\Diningphilosophersproblem\Diningphilosophersproblem\obj\Debug\net8.0\ref\Diningphilosophersproblem.dll
